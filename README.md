@@ -7,14 +7,11 @@ In this project, I implemented a Security Information and Event Management (SIEM
 This project demonstrates proficiency in setting up Microsoft Sentinel for security monitoring and also highlights my ability to configure, analyze, and respond to security events on virtual machines in a cloud environment.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
-
 - Configuring log sources from the virtual machine to Microsoft Sentinel for real-time monitoring.
 - Setting up automated alerts to notify administrators of suspicious login attempts, such as repeated failed logins, to detect potential brute force or unauthorized access attempts.
 - Leveraging query capabilities within Sentinel to analyze RDP login patterns, improving incident response and enhanced security on a virtual machine.
 
 ### Tools Used
-
 - Microsoft Azure as a cloud hosting platform for the Virtual Machine and SIEM.
 - Microsoft Sentinel as a SIEM interface for the Windows Security Logs from the Virtual Machine.
 
